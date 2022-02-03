@@ -1,0 +1,49 @@
+*{
+    margin: 0;
+    padding: 0;
+    border: 0;
+    box-sizing: border-box;
+   
+}
+body{
+    background-image:url('/Imagens/fundo.png');
+    background-repeat: repeat;
+    
+}
+#principal{
+width: 900px;
+height: 500px;
+}
+#navbar{
+background: #C5C5B2;
+padding:10px;
+text-align: center;
+
+}
+a{
+    padding: 5px;
+    text-decoration:none;
+    color: #4b566a;
+    text-align:center;
+    font-weight: bold;
+}
+a:hover{
+    color: #6d7b94;
+}
+#used{
+    color: black;
+}
+.titulos{
+    padding: 10px;
+}
+.texts{
+    padding:10px;
+}
+#rodape{
+    padding: 10px;
+    text-align: center;
+}
+.imagens{
+    padding-left: 20px;
+    
+}
